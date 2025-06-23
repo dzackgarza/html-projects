@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Repo Explorer",
+  "description": "A web application to browse GitHub repositories with advanced sorting, filtering, and grouping features.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
