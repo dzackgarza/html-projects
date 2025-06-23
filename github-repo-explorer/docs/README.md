@@ -26,6 +26,13 @@ Welcome to the GitHub Repo Explorer documentation!
   - AI research collaborator and proof assistance
   - Global research community intelligence
 
+### **Development Planning:**
+- **[V1-Branches.md](./V1-Branches.md)** - V1 Development Branch Breakdown
+  - 7 independent development tracks for parallel work
+  - Content parsing, synthesis engine, literature navigator
+  - Project prioritization, search, AI integration, UI/UX
+  - 3-phase implementation strategy with clear dependencies
+
 ## 🎯 **Quick Links**
 
 - **Current Features**: See main [README.md](../README.md) for current functionality
